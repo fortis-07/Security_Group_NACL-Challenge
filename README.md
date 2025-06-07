@@ -1,4 +1,4 @@
-# Terraform AWS VPC Lab Project Documentation
+# Terraform-AWS VPC Lab Documentation
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
